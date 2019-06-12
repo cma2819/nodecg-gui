@@ -2,6 +2,8 @@
 
 NodeCGの実行環境を提供するGUIアプリケーション（開発中）です。
 
+Electron上で動作し、Node.jsのインストールなしで利用可能にしたい。
+
 ## Task（仮）
 
 - [ ] NodeCG本体install
