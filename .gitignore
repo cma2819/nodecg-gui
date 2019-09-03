@@ -1,6 +1,7 @@
 # npm
-/package-lock.json
 /node_modules
-# NodeCG
-/nodecg/*
-!/nodecg/.empty_directory
+
+# NodeCG Directories
+/bundles
+/cfg
+/db

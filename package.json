@@ -4,10 +4,13 @@
   "description": "",
   "main": "app/index.js",
   "dependencies": {
-    "electron": "^5.0.3"
+    "electron": "^5.0.3",
+    "include-nodecg": "github:cma2819/include-nodecg",
+    "nodecg": "^1.4.1"
   },
   "devDependencies": {},
   "scripts": {
+    "postinstall": "include-nodecg postinstall",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
   },
