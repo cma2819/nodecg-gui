@@ -6,8 +6,8 @@ Electron上で動作し、Node.jsのインストールなしで利用可能に�
 
 ## Task（仮）
 
-- [ ] NodeCG本体install
-- [ ] bundlesのシンボリックリンク生成
+- [x] NodeCG本体install
+- [x] bundlesのシンボリックリンク生成
 - [ ] 実行bundle選択
 - [ ] npm scriptの実行でbundleのセットアップ自動化
 - [ ] nodecg installでbundle導入
